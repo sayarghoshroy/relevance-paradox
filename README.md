@@ -4,6 +4,6 @@
 
 #### Key Idea
 
-<p align='justify'>An extractive summarization task can be framed as regression task where we try to assign a relevance label to every sentence in the article. Now, we can analyze trends in the data by plotting the normalized relevance score in the y-axis and various other factors such as length of the sentence, number of content words in the sentence, the content word count to text length ratio, norm of the semantic embedding vector, semantic similarity between the sentence and the document embedding, etc.</p>
+<p align='justify'>The task of predicting the importance of every sentence in a document on the web can be framed as a regression task where we try to compute a saliency score for every available sentence. Now, we can analyze trends in the sentence-salience data by plotting the normalized relevance score or some other metric against various possible factors such as length of the sentence, the content word count to text length ratio, semantic similarity between the sentence and the document embedding, etc. We can also visualize various other settings and try to specifically find cases of paradox such as Simpson's, Berkson's and Lord’s.</p>
 
 ---
