@@ -12,6 +12,8 @@
 
 #### Full report write-up can be accessed [here](https://docs.google.com/document/d/1dSZpGz2LS42YUqfFvp4t2QswVQArOdZEAVobNzvA5wY/edit?usp=sharing).
 
+#### Presentation slides can be found [here](https://docs.google.com/presentation/d/1NYxSYA8gBHHTJQLVoFdpOKddTf5a3wws7WJAcibd_is/edit?usp=sharing).
+
 <p align="center">
   <img src="https://github.com/sayarghoshroy/relevance-paradox/blob/main/paradox_plots/paradox.svg" width="80%">
 </p>
